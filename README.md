@@ -1,2 +1,8 @@
-# easy-learn-MariaDB
-MariaDB常用SQL指令速查笔记
+# MariaDB入门很简单
+
+- 1.数据库基础
+- 2.数据库维护
+- 3.SQL查询语句
+- 4.数据库高级管理
+- 5.应用和实战开发
+
