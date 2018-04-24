@@ -1,4 +1,4 @@
-# MariaDB入门很简单
+# Easy Learn to MariaDB
 
 - [1. 数据库基础]()
   - 数据库概述
