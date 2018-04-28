@@ -1,5 +1,7 @@
 # Easy Learn to MariaDB
 
+![mariadb](./images/easy-learn-mariadb00.png)
+
 - [1. 数据库基础]()
   - 数据库概述
   - Windows安装数据库
