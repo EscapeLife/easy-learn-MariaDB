@@ -4,7 +4,7 @@
   - 数据库概述
   - Windows安装数据库
   - Linux安装数据库
-- [2. 数据库维护]()
+- [2. 数据库维护](https://github.com/EscapeLife/easy-learn-MariaDB/blob/master/context/2.%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BB%B4%E6%8A%A4.md)
   - 数据类型
   - 操作数据库
   - 增删改查表
