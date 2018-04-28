@@ -1,7 +1,5 @@
 # Easy Learn to MariaDB
 
-![mariadb](./images/easy-learn-mariadb00.png)
-
 - [1. 数据库基础]()
   - 数据库概述
   - Windows安装数据库
@@ -30,3 +28,5 @@
   - C#访问数据库
   - Python访问数据库
   - 驾校学员管理系统
+
+![mariadb](./images/easy-learn-mariadb00.png)
