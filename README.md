@@ -1,8 +1,8 @@
 # Easy Learn to MariaDB
 
-![mariadb](./images/easy-learn-mariadb00.png)
-
 > 这是一个关于MariaDB数据库快速上手的操作教程，通过实例演示来掌握对于SQL语句的熟悉以及MariaDB的适用场景，都是干货。主要内容都是我的读书笔记，其中大部分的实例代码都是出自《MariaDB入门很简单》这本书，我对部分进行的重新的编辑，用于达到言简意赅的目的。比较喜欢纸质版图书的朋友，可以购买该书籍，很推荐仔细阅读。
+
+![mariadb](./images/easy-learn-mariadb00.png)
 
 - [1. 数据库基础]()
   - 数据库概述
